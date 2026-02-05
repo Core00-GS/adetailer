@@ -28,7 +28,7 @@ dynamic = ["version"]
 repository = "https://github.com/Bing-su/adetailer"
 
 [project.optional-dependencies]
-dev = ["ruff", "pre-commit", "devtools"]
+dev = ["devtools"]
 test = ["pytest", "hypothesis"]
 
 [build-system]
