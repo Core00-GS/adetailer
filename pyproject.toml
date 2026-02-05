@@ -16,7 +16,7 @@ classifiers = [
   "Topic :: Scientific/Engineering :: Image Recognition",
 ]
 dependencies = [
-  "huggingface_hub",
+  "huggingface-hub",
   "mediapipe>=0.10.13",
   "pydantic<3",
   "rich>=13",
